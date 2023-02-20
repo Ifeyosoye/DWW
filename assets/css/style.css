@@ -68,7 +68,7 @@
   }
 }
 @media only screen and (max-width: 767px) {
-  #designs2 {
-    margin-top: 14rem !important;
+  #designs {
+    height: 140vh;
   }
 }
